@@ -1,4 +1,4 @@
 export const logUserNumber = (value)=>{
-  console.log('handleLogNumber - ',value)
+  console.log('logUserNumber - ',value)
 }
 
